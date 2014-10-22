@@ -6,4 +6,4 @@ class input_layer(object):
     def __init__(self, arg):
         super(input_layer, self).__init__()
         self.arg = arg
-        
+
